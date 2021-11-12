@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kseniiamozgovaia
-- 👀 I’m interested in Pythos, data science, data mining and game design
+- 👀 I’m interested in Python, data science, data mining and game design
 - 🌱 I’m currently learning all things abovemention
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
